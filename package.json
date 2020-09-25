@@ -1,0 +1,8 @@
+{
+  "name": "express-rest-boilerplate",
+  "version": "1.0.0",
+  "description": "express rest boilerplate",
+  "main": "index.js",
+  "author": "lawrencepro.dev",
+  "license": "MIT"
+}
